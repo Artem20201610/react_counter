@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.scss"],"names":[],"mappings":"AAAA,0BACE,iBAAkB","file":"main.a78420d5.chunk.css","sourcesContent":["button:not(:last-of-type) {\n  margin-right: 10px;\n}\n"]}
